@@ -15,4 +15,4 @@ Detalles del proyecto:
 
 <br>
 
-Puedes descargar el ejecutable desde [aquí](https://github.com/LucasCicconi1704/conversor-java-api/releases/download/v1.0.0/conversor-alura.jar).
+Puedes descargar el ejecutable desde [aquí](https://github.com/LucasCicconi1704/conversor-java-api/releases/download/untagged-b55f51353c9506172d2e/conversor-alura.jar).
